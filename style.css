@@ -1,8 +1,7 @@
-body {background: #00b3e6;}
-
 body {
-  
+  background: #00b3e6;
 }
+
 
 div {
   width: 700px;
@@ -11,17 +10,16 @@ div {
   background: white;
   padding: 30px;
 }
-div {
-  /* Your code here! */
-}
 
-#main-header {font-size: 22px;}
+
 #main-header {
-  /* Your code here! */
+  font-size: 22px;
   color: red;
 }
 
-.perspective-questions {font-style: italic;}
+
 .perspective-questions {
-  /* Your code here! */
+  font-style: italic;
 }
+
+
